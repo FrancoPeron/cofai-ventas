@@ -151,3 +151,4 @@ plt.show()
 
 print(f"✅ Gráfico guardado: {ruta_grafico}")
 
+\n# COFAI-5: Revisión de calidad y cierre del Pull Request
