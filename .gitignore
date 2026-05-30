@@ -1,0 +1,32 @@
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Checkpoints de Jupyter/Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Archivos de datos pesados (no subir al repo)
+*.xlsx
+*.xls
+# Descomenta la siguiente línea si tu CSV pesa más de 50 MB:
+# *.csv
+
+# Entornos virtuales
+.env
+.venv
+env/
+venv/
+
+# Logs
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Credenciales y tokens (NUNCA deben subirse)
+*.env
+secrets.txt
+token.txt

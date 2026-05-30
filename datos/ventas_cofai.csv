@@ -1,0 +1,31 @@
+id,producto,categoria,cantidad_vendida,precio_unitario,monto_venta,canal,fecha_venta
+1,Café en Grano Blend Cofai 250g,Granos,12,1850,22200,online,2025-01-08
+2,Café en Grano Origen Etiopía 250g,Granos,8,2100,16800,online,2025-01-10
+3,Cafetera DeLonghi Dedica EC685,Cafeteras,2,89900,179800,online,2025-01-15
+4,Café en Grano Blend Cofai 1kg,Granos,5,6200,31000,local,2025-01-18
+5,Café en Grano Brasil Cerrado 250g,Granos,10,1950,19500,online,2025-01-22
+6,Cafetera Philips Serie 3200 LatteGo,Cafeteras,1,145000,145000,online,2025-01-28
+7,Café en Grano Blend Cofai 250g,Granos,15,1850,27750,online,2025-02-03
+8,Accesorio Molinillo Manual Hario,Accesorios,6,8500,51000,online,2025-02-07
+9,Café en Grano Origen Etiopía 1kg,Granos,3,7200,21600,mayorista,2025-02-12
+10,Cafetera DeLonghi Magnifica Evo,Cafeteras,1,198000,198000,online,2025-02-18
+11,Café en Grano Blend Cofai 250g,Granos,20,1850,37000,online,2025-02-24
+12,Café en Grano Colombia Huila 250g,Granos,9,2050,18450,online,2025-03-03
+13,Accesorio Tamper Acero 58mm,Accesorios,4,3200,12800,online,2025-03-08
+14,Cafetera DeLonghi Dedica EC685,Cafeteras,3,89900,269700,online,2025-03-14
+15,Café en Grano Blend Cofai 1kg,Granos,8,6200,49600,mayorista,2025-03-19
+16,Café en Grano Brasil Cerrado 1kg,Granos,4,6500,26000,local,2025-03-25
+17,Café en Grano Blend Cofai 250g,Granos,18,1850,33300,online,2025-04-02
+18,Cafetera Philips Serie 3200 LatteGo,Cafeteras,2,145000,290000,online,2025-04-09
+19,Accesorio Molinillo Manual Hario,Accesorios,8,8500,68000,online,2025-04-14
+20,Café en Grano Origen Etiopía 250g,Granos,11,2100,23100,online,2025-04-20
+21,Café en Grano Colombia Huila 1kg,Granos,3,7000,21000,mayorista,2025-04-26
+22,Accesorio Prensa Francesa 600ml,Accesorios,5,4800,24000,online,2025-05-04
+23,Café en Grano Blend Cofai 250g,Granos,22,1850,40700,online,2025-05-09
+24,Cafetera DeLonghi Magnifica Evo,Cafeteras,2,198000,396000,online,2025-05-15
+25,Café en Grano Brasil Cerrado 250g,Granos,14,1950,27300,online,2025-05-21
+26,Café en Grano Blend Cofai 1kg,Granos,10,6200,62000,mayorista,2025-05-27
+27,Accesorio Tamper Acero 58mm,Accesorios,7,3200,22400,online,2025-06-03
+28,Cafetera DeLonghi Dedica EC685,Cafeteras,4,89900,359600,online,2025-06-10
+29,Café en Grano Origen Etiopía 1kg,Granos,5,7200,36000,mayorista,2025-06-16
+30,Café en Grano Blend Cofai 250g,Granos,25,1850,46250,online,2025-06-23
